@@ -1,6 +1,7 @@
 # Site
 name: "Jay Blogs"
 title: "Jay Blogs"
+homepageurl: "https://lonewanderer27.github.io"
 description: "Where I write my experiences as Software Developer, with bits of rants growing up as a gay guy and some societal issues."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
