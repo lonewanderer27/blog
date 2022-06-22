@@ -6,6 +6,7 @@ category: [code]
 image: /assets/images/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/DxD1hLgUwAAo-Od.jpg
 tags: [code]
 author: jay
+featured: true
 ---
 
 I once wanted to create a Discord chatbot that speaks exactly like Keitaro, however, none have written a dialog extractor specifically for Camp Buddy, so I wrote [Camp Buddy Dialog Extractor](https://github.com/lonewanderer27/Camp-Buddy-Dialog-Extractor)

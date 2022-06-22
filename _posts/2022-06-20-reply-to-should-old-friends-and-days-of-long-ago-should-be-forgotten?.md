@@ -5,11 +5,12 @@ title: Reply to "Should Old Friends and Days of Long Ago Should Be Forgotten?"
 image: /assets/images/2022-06-20-reply-to-should-old-friends-be-forgotten/266273-e1647793648296-620x422.jpeg
 category: [life, school]
 author: jay
+featured: true
 ---
 
 First of all, young Jay, your grammar sucks and it's ironic considering that you answered this question during the time that you were taking your Journalism class in Bangkal High School under Prof. Neri
 
-Anyway for me, I think it's a no for me. These old friends, together with our old memories with them, they are the reason why and where we are right now. 
+Anyway for it's a no for me. These old friends, together with our old memories with them, they are the reason why and where we are right now. 
 
 So! Story time, I've had an old friend whom helped me pass during my Grade School days. But eventually, there was time that we've had to be separated because my family had to move to another city. We haven't forgotten each other, in fact we often see each other's posts in Facebook because we're friends, but, we do not really interact with each other, we just know what happens. 
 
