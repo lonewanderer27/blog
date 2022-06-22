@@ -5,8 +5,8 @@
     <description>Where I write my experiences as Software Developer, with bits of rants growing up as a gay guy and some societal issues.</description>
     <link>http://localhost:4000/blog/</link>
     <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jun 2022 22:22:37 +0800</pubDate>
-    <lastBuildDate>Wed, 22 Jun 2022 22:22:37 +0800</lastBuildDate>
+    <pubDate>Wed, 22 Jun 2022 22:36:45 +0800</pubDate>
+    <lastBuildDate>Wed, 22 Jun 2022 22:36:45 +0800</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -153,17 +153,17 @@ Then one day he told me he’s got crush on a girl, someone that is out of our c
 
 &lt;p&gt;So I thought to myself.. why not make an app that can extract scripts from Camp Buddy? (and more that I can think of in the future)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/img/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/Screenshot_Extract_Dialogs_Tab.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/images/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/Screenshot_Extract_Dialogs_Tab.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Sooooooo above me is a screenshot of the tool that I’m currently making for a Visual Novel game. It mainly targets those who want to make a python chat bot that speaks exactly like the characters from the Visual Novel.&lt;/p&gt;
 
 &lt;h2 id=&quot;extracting-assets-tab&quot;&gt;Extracting Assets Tab&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/img/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/172808192-31553218-949d-432a-a740-68266242f98a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/images/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/172808192-31553218-949d-432a-a740-68266242f98a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The GUI doesn’t become unresponsive thanks to perform_long_operation. And the write_event_value made it easy to pass the current file that is being extracted, as well as the current progress of the extraction from a separate python program&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/img/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/172815391-6f95e611-3f80-4875-a586-baf5aae3d6a3.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/images/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/172815391-6f95e611-3f80-4875-a586-baf5aae3d6a3.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Though I kinda wish this also works in the QT port as I prefer the look of that instead of Tkinter. But this will do for now!&lt;/p&gt;
 
@@ -171,13 +171,13 @@ Then one day he told me he’s got crush on a girl, someone that is out of our c
 
 &lt;p&gt;The layout tools worked very well in keeping the check boxes organized&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/img/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/172815459-afddc0de-7ac3-4be4-9d96-76cfe86529dc.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/images/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/172815459-afddc0de-7ac3-4be4-9d96-76cfe86529dc.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;about-window&quot;&gt;About Window&lt;/h2&gt;
 
 &lt;p&gt;I really like the About window of GNOME / GTK apps so I made mine look similar to it&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/img/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/172815544-67924be4-00f8-4016-a34e-a96c6b82a200.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/images/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/172815544-67924be4-00f8-4016-a34e-a96c6b82a200.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Github Repo link is here for anyone who wants to look at the code, warning it’s spaghetti code:
 &lt;a href=&quot;https://github.com/lonewanderer27/Camp-Buddy-Toolbox&quot;&gt;https://github.com/lonewanderer27/Camp-Buddy-Toolbox&lt;/a&gt;&lt;/p&gt;
