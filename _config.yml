@@ -2,14 +2,14 @@
 name: "Jay Blogs"
 title: "Jay Blogs"
 homepageurl: "https://lonewanderer27.github.io"
-description: "Where I write my experiences as Software Developer, with bits of rants growing up as a gay guy and some societal issues."
+description: "Where I write my experiences as a Full-Stack Developer, with stories growing up as a gay guy and sentiments on some societal issues."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog
 # google_analytics: 'UA-46278016-1'
-disqus: 'jay-blogs'
+# disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-include: ["_pages"]
+include: ["_pages", ".nojekyll"]
 permalink: /:title/
 
 # Authors
@@ -38,7 +38,8 @@ authors:
     email: adrianejames27@gmail.com
     web: https://lonewanderer27.github.io
     twitter: https://twitter.com/ellewanderer27
-    description: Author of Jay Blogs, an aspiring software developer from Philippines. Digital freedom is what I fight for. He / Him.
+    description: Author of Jay Blogs. Aspiring Software Engineer from Philippines. Currently taking up B.S. Computer Science at Adamson University.
+
 # Plugins
 plugins:
   - jekyll-paginate
@@ -61,7 +62,6 @@ paginate_path: /page:num/
     
 # Other
 markdown: kramdown
-destination: docs/
 
 kramdown:
   input: GFM
@@ -71,12 +71,15 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-# adsense: "disabled"
-# adsense-data-ad-client: "ca-pub-3412143450191416"
-# adsense-data-ad-slot: "1363087678"
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
-keep_files: [.nojekyll]
+
+include: [.nojekyll]
+
+destination: docs/

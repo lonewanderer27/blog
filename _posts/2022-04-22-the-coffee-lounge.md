@@ -1,7 +1,7 @@
 ---
-date: 2022-04-27 
 layout: post
 title: Introducing The Coffee Lounge™
+excerpt: 10 Years from now, The Coffee Lounge™ is going to be one of the last businesses that I'll establish before going abroad to finally be free from the society that I am currently in, and live my life the way I wanted it to be.
 category: [life]
 image: /assets/images/2022-04-22-the-coffee-lounge/279094996_1581891715529535_8867864137325537511_n.jpg
 tags:

@@ -1,7 +1,6 @@
 ---
-date: 2022-06-20 20:30:0
 layout: post
-title: Reply to "Should Old Friends and Days of Long Ago Should Be Forgotten?"
+title: Reply to Should Old Friends and Days of Long Ago Should Be Forgotten?
 image: /assets/images/2022-06-20-reply-to-should-old-friends-be-forgotten/266273-e1647793648296-620x422.jpeg
 category: [life, school]
 author: jay

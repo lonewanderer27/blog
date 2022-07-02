@@ -1,5 +1,4 @@
 ---
-date: 2022-04-27 
 layout: post
 title: My Coming Out Story
 categories: [lgbt+]

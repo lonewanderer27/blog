@@ -1,9 +1,8 @@
 ---
-date: 2017-06-15
 layout: post
-title: Top 10 Greatest People I Know
+title: Top 9 Greatest People I Know
 subtitle: Question 2 in my English Web Portfolio
-description: Question 2 in my English Web Portfolio
+excerpt: Bill Gates co – founded with Paul Allen. They founded Microsoft which made Windows. FYI, Windows is the most dominant in computer operating system for PC followed by Apple Mac OS then Linux. At first Windows was just color based but now, it was the best Windows 10 ever, combined the Live Tile (Windows 8) and the revival of Start Menu style. (Windows 7)
 image: /assets/images/2017-06-15-top-10-greatest-people-i-know/wp-image-1182106555.webp
 category: [life, school]
 author: jay
@@ -47,13 +46,7 @@ Her life wasn’t very easy. She is not born with golden spoon on her mouth. Her
 
 She thought that her life is going to perfect this time but not. And eventually broke up with his fiance and she build her own business but it got roughs so she switched to an online store. There, she eventually she got famous after a celebrity noticed her clothes she sells.
 
-## 7. President Rodrigo Roa Duterte
-
-![](../assets/images/2017-06-15-top-10-greatest-people-i-know/wp-image-1482580590.webp)
-
-Well after many years of waiting. There he comes, our new great president. Even i didn’t remember what all he had promised, i feel that everything is slowly but surely going up specially in our economy, add to that, i feel much safer now because of his campaign against illegal drugs.
-
-## 8. John Wu
+## 7. John Wu
 
 ![](../assets/images/2017-06-15-top-10-greatest-people-i-know/wp-image-1252326099.webp)
 
@@ -63,7 +56,7 @@ The creator of the most popular Magisk. The universal systemless interface. I ca
 
 Thanks to several contributors to android. John Wu came up with this tool. Lives in Taiwan. He is very friendly, (But almost developers and modders from XDA do) actually he provided a help (full documentation) to those who want to work this mod with their device.
 
-## 9. Pent
+## 8. Pent
 
 ![](../assets/images/2017-06-15-top-10-greatest-people-i-know/wp-image-1122544970.webp)
 
@@ -73,7 +66,7 @@ Who created the most powerful automation app on android. Still, this day, I can�
 
 He is friendly just like John Wu, and even for begginers, he advises them what to do and how to do it in Tasker.
 
-## 10. Jamie
+## 9. Jamie
 
 ![](../assets/images/2017-06-15-top-10-greatest-people-i-know/wp-image-321912663.webp)
 

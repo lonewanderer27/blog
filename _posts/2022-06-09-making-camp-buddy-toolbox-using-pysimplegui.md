@@ -1,5 +1,4 @@
 ---
-date: 2020-06-09 17:12
 layout: post
 title: Making Camp Buddy Toolbox using PySimpleGUI
 category: [code]

@@ -1,8 +1,7 @@
 ---
-date: 2020-05-22
 layout: post
 title: I am a Tech-Nerd
-description: You can create something meaningful that could change the humanity forever, right from your very own keyboard and monitor. ~ Jay2020
+excerpt: You can create something meaningful that could change the humanity forever, right from your very own keyboard and monitor
 image: /assets/images/2020-05-22-i-am-a-tech-nerd/100682803_1088491691536209_8776004218919059456_n.jpg
 categories: [life, code]
 author: jay
