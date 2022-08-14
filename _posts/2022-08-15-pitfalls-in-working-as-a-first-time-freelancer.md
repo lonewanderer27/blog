@@ -4,6 +4,7 @@ title: Pitfalls in Working as a First Time Freelancer
 image: /assets/images/2022-08-15-pitfalls-of-working-as-a-first-time-freelancer/7890312398_8844cfb82c_b.jpg
 category: [job, code]
 author: jay
+featured: true
 ---
 
 It was on that faithful day of June 9 2022 when I got my first job as a web developer. I was hesitant at first because I didn't knew what I should do, what should I expect and how is the process gonna be. But eventually I gave in and said to myself, this is going to be a nice addition to my job experience.

@@ -4,7 +4,6 @@ title: Reply to Should Old Friends and Days of Long Ago Should Be Forgotten?
 image: /assets/images/2022-06-20-reply-to-should-old-friends-be-forgotten/266273-e1647793648296-620x422.jpeg
 category: [life, school]
 author: jay
-featured: true
 ---
 
 First of all, young Jay, your grammar sucks and it's ironic considering that you answered this question during the time that you were taking your Journalism class in Bangkal High School under Prof. Neri
